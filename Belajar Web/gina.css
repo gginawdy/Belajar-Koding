@@ -1,0 +1,17 @@
+p{
+    text-align: center;
+}
+
+.tombol{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    left: 200px;
+}
+
+.isi{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+}
